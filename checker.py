@@ -1,3 +1,5 @@
+# Copyright 2020 Satria Ade Veda Karuniawan
+# Inochi 2020 -> INO
 import msvcrt
 
 filename = "kunci.txt"
